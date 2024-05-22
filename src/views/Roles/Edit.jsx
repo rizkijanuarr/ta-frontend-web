@@ -18,7 +18,7 @@ import toast from "react-hot-toast";
 
 export default function RoleEdit() {
   //title page
-  document.title = "Edit Role - NewsApp Administartor";
+  document.title = "Edit Role - SIPEVO";
 
   //navigata
   const navigate = useNavigate();

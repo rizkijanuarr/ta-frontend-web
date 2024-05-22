@@ -15,7 +15,7 @@ import Pagination from "../../components/Pagination";
 
 export default function PermissionIndex() {
   //title page
-  document.title = "Permissions - NewsApp Administartor";
+  document.title = "Permissions - SIPEVO";
 
   //define state "permissions"
   const [permissions, setPermissions] = useState([]);
